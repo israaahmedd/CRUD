@@ -1,0 +1,28 @@
+body{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80;
+    font-weight: 700;
+    
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35;
+    font-weight: 400;
+      
+}
+
+.click{
+    background-color: rgb(52, 15, 216);
+}
+.click:hover{
+background-color: rgb(4, 98, 66);
+
+}
